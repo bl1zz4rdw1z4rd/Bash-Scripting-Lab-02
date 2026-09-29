@@ -17,3 +17,7 @@ In this lab, I will learn Bash scripting by following "Learn Linux TV" tutorials
 
 ## Notes
 Scripts in this repository are for practice in my own Ubuntu virtual machine. Review a script before running it.
+
+Reference: 
+How To Write Bash Scripts In Linux - Complete Guide
+https://www.youtube.com/watch?v=2733cRPudvI&list=PLT98CRl2KxKGj-VKtApD8-zCqSaN2mD4w&pp=0gcJCbwFa94AFGB0
